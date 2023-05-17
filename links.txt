@@ -1,0 +1,22 @@
+virtual clone drive
+
+Visual Studio 2013 Update 5
+https://my.visualstudio.com/Downloads?q=visual%20studio%202013&wt.mc_id=o~msft~vscom~older-downloads
+
+video como instalar y librerias dinamicas ...
+https://www.youtube.com/watch?v=nrzAF2sxHHM
+
+
+capacibilidad tarjeta grafica
+https://superuser.com/questions/1091486/how-can-i-know-about-compute-capability-and-sm-of-my-graphics-card
+
+caffe
+https://github.com/microsoft/caffe
+
+
+cudnn
+https://developer.nvidia.com/rdp/cudnn-download
+
+cuda
+https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_network
+
