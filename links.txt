@@ -2,6 +2,7 @@ virtual clone drive
 
 Visual Studio 2013 Update 5
 https://my.visualstudio.com/Downloads?q=visual%20studio%202013&wt.mc_id=o~msft~vscom~older-downloads
+https://www.microsoft.com/es-es/download/confirmation.aspx?id=52685
 
 video como instalar y librerias dinamicas ...
 https://www.youtube.com/watch?v=nrzAF2sxHHM
